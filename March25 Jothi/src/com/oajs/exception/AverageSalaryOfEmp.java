@@ -7,6 +7,7 @@ public class AverageSalaryOfEmp {
 
 	public static void main(String[] args) {
 
+		//srinivas
 			Scanner sc = new Scanner(System.in);
 			System.out.println("Enter the No of Employee");
 			try {
